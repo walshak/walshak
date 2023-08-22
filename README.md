@@ -15,7 +15,7 @@ Skills: ***HTML / CSS / JS / jQuery / PHP / SQL / Python / Laravel / Codeigniter
 
 🔭 I’m currently working on this page. 
 
-⚡ Fun fact: I started coding with Qpaython on a Tecno P3 mobile phone. 
+⚡ Fun fact: I started coding with Qpython on a Tecno P3 mobile phone. 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/walshak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/walshak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/walshaktimothyapollos)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/walshakapollost/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/walshakTimothy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://corestream.ng)  
 
